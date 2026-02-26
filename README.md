@@ -16,10 +16,11 @@ The project looks to highlights **social gradients in health**: people in more d
 **Key national insights** (from ONS 2022–2024 data):  
 - Male life expectancy at birth: ~79.4 years  
 - Female life expectancy at birth: ~83.3 years  
-- Female-male gap: ~3.9 years  
+- Female-male gap: ~3.9 years
+- Average female–male life expectancy gap (2022–2024): ~3.89 years (Females live ~ 3.89 years longer than males across all regions included in the data.)
 - In the most deprived areas, **LE** drops/rises to_________ (males) and________________ (females), with gaps widening significantly compared to the least deprived areas.
 
-This repo demonstrates end-to-end public health data science: handling messy public datasets (side-by-side male/female life tables, deprivation scores), modular code structure, reproducible workflows, and equity-focused insights.
+**This repo demonstrates end-to-end public health data science: handling messy public datasets (side-by-side male/female life tables, deprivation scores), modular code structure, reproducible workflows, and equity-focused insights.**
 
 ## Features & Skills Demonstrated
 - **Data Sources**:
