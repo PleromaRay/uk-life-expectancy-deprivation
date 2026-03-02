@@ -41,5 +41,5 @@ The project looks to highlights **social gradients in health**: people in more d
   - requirements.txt + virtual env setup
 
 ## Key Findings (Would be updated from time-to-time)
-- National female-male life expectancy gap at birth: ~3.9 years (females longer)
-- 
+- National female-male life expectancy gap at birth: ~3.9 years (females higher)
+- Average GAP between male and female as at 2022/2024: ~2.67 years (females higher)
